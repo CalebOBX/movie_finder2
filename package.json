@@ -2,7 +2,7 @@
   "name": "movie_finder2",
   "version": "0.1.0",
   "private": true,
-  "engines:" {
+  "engines": {
     "npm": "10.2.1",
     "node": "20.9.0"
   },
